@@ -62,3 +62,6 @@ setup(
     },
     cmdclass={"lint": LintCommand},
 )
+
+
+#cocstatus
